@@ -1,15 +1,15 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_travel_tour'
+  s.name        = 'spree_travel_activity'
   s.version     = '2.0.3'
-  s.summary     = 'Tours into spree'
-  s.description = 'Tours intro spree'
+  s.summary     = 'Activity into spree'
+  s.description = 'Activity intro spree'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'OpenJAF'
   s.email     = 'pqr@openjaf.com'
-  s.homepage  = 'http://github.com/openjaf/spree_travel_tour'
+  s.homepage  = 'http://github.com/openjaf/spree_travel_activity'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
